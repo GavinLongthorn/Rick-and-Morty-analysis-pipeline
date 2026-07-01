@@ -1,0 +1,6 @@
+version: 2
+sources:
+  - name: my_api_data
+    schema: public
+    tables:
+      - name: rick_morty_cast_analysis

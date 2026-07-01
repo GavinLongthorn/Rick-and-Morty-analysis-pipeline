@@ -1,0 +1,7 @@
+# Environment secrets
+.env
+logs/
+.vscode/
+target/
+dbt_packages/
+--pycache--/
