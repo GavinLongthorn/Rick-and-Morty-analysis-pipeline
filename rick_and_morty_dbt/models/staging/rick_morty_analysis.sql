@@ -15,7 +15,7 @@ final_metrics AS (
         bd.*,
         ROUND(bd.episode_count::numeric / 87.0, 2) AS exposure_ratio,
         bd.episode_count * 50000 AS total_voice_actor_pay
-    FROM base_data bd
+    FROM base_data AS bd
 )
 
 SELECT * FROM final_metrics
