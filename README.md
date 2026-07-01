@@ -1,3 +1,4 @@
+<img width="860" height="314" alt="4-47533_rick-and-morty-logo-png-transparent-png" src="https://github.com/user-attachments/assets/777eae57-d010-4eb8-890e-629cc4f23aa5" />
 Overview
 
 This project implements an end-to-end data engineering pipeline designed to extract, load, and transform (ELT) cast (character) elements of the popular show ‘Rick & Morty’. It leverages Python for API interaction, Docker for containerised database management, and dbt (data build tool-Postgresql) for data modeling and cleaning.
